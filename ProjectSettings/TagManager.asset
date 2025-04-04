@@ -41,6 +41,39 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: GroundBottom
+    uniqueID: 4263907183
+    locked: 0
+  - name: GroundMiddle
+    uniqueID: 2735156685
+    locked: 0
+  - name: GroundTop
+    uniqueID: 817318301
+    locked: 0
+  - name: Ornament1
+    uniqueID: 488744371
+    locked: 0
+  - name: Ornament2
+    uniqueID: 4263531989
+    locked: 0
+  - name: AfterGround
+    uniqueID: 1542316483
+    locked: 0
+  - name: Water
+    uniqueID: 3725431297
+    locked: 0
   - name: Instance
     uniqueID: 3319188243
+    locked: 0
+  - name: Front1
+    uniqueID: 2956903403
+    locked: 0
+  - name: Front2
+    uniqueID: 952410901
+    locked: 0
+  - name: Front3
+    uniqueID: 3136572179
+    locked: 0
+  - name: Collider
+    uniqueID: 2176274655
     locked: 0

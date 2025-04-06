@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Item.Bushes
+namespace Inventory.Item.Bushes
 {
     public enum BushType
     {
